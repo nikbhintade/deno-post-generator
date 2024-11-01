@@ -1,0 +1,7 @@
+# env file
+.env
+
+# project data
+*.md
+/data
+transformed-data.json
